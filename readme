@@ -1,3 +1,10 @@
+# BLINK DB - High Performance Key-Value Database
+
+This project was developed as part of the "Design Laboratory (CS69202)" course at IIT Kharagpur.  
+BLINK DB is a high-performance, Redis-inspired key-value database that handles multiple client requests efficiently using `epoll` for I/O multiplexing.
+
+---
+
 Build the Server and Client 
 
 make blinkdb_server
