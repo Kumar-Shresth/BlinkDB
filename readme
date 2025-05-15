@@ -1,0 +1,16 @@
+Build the Server and Client 
+
+make blinkdb_server
+make blinkdb_client
+
+Build the Storage Engine and REPL 
+
+make repl
+
+Generate Documentation (HTML + PDF)
+
+make doc
+
+Clean the Project
+
+make clean
